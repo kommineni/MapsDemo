@@ -1,6 +1,8 @@
 package com.example.android.apis;
 
-
+/**
+ * Import statements
+ */
 import com.example.android.google.apis.R;
 
 import android.app.Activity;
