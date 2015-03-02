@@ -1,4 +1,6 @@
-package simple.app;
+package com.example.android.apis;
+
+import com.example.android.google.apis.R;
 
 import android.app.Activity;
 import android.os.Bundle;
